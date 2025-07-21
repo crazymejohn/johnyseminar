@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>JOHNseminar</title>
+</head>
+<body>
+ 	<nav>
+ 			<ul>
+ 				<li>HOME</li>
+ 				<li>ABOUT ME</li>
+ 				<li>FIND ME</li>
+ 			</ul>
+ 	</nav>
+ 	<section id="HOME">
+ 		<p>WELCOME TO CIT SEMINAR 2025
+ 			I AM JOHN PATRICK A. HIDALGO YOUR JUNIOR DEVELOPER</p>
+ 	</section>
+ 	<section id="ABOUT ME">
+ 		<p>I AM A VIRGIN AND A GRADUATE FORM MINDANAO STATE UNIVERSITY -BUUG CAMPUS</p>
+ 	</section>
+ 	<section id="FIND ME">
+ 		<p>I LIVE IN ISLA MUYONG BARANGAY BUGWAK SITYO ALIMOGMOG</p>
+ 	</section>
+</body>
+</html>
